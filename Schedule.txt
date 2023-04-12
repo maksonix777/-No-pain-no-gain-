@@ -1,0 +1,39 @@
+pwd (англ. present working directory — текущий рабочий каталог; или print working directory — вывести рабочий каталог) — консольная утилита в UNIX-подобных системах, которая выводит полный путь от корневого каталога к текущему рабочему каталогу: в контексте которого (по умолчанию) будут исполняться вводимые команды.
+
+1s =List (of folders)
+Ls --help = list of commands
+Ls -a = List of hidden folders
+
+cd / = Change direction
+mkdir =  creat folder
+Cp =Copy folder
+mv = move folder
+
+mv =rename!!!
+
+Ls --help 
+Ls -la/  =List directory contents
+Ls -a / = All direction content
+Ls -a /home/ 
+Ls -l =Full information about system objects
+- object
+Ls -l = dev -->head/dev/(filename)
+dr= direction
+cd ..back to parent directory
+Ls .. list of parent directory
+Ls -l /dev 
+Name start with c =characteristic device
+Name start with - =folders
+Names stats with d =directory 
+Names start With b =block type(hard drive)
+Touch = creat file inside folder (echo"")
+> =redirection file
+cat = print file contents
+rmdir = remove rirectory!!!! 
+------
+Ln -s /root/file link-to-file 
+Ln -s creat a source link
+Use the rm -rf animals command to remove non-empty directories.
+
+
+1. history > /Users/maksonix/Desktop/history.txt
